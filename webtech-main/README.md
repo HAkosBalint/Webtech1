@@ -1,3 +1,3 @@
 Login oldal
-Felhasználónév: xpnyeste
+Felhasználónév: hartmana
 Jelszó: jelszo
