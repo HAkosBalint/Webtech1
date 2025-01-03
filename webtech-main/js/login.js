@@ -6,7 +6,7 @@ function login() {
     }else if(password == "") {
         alert("Adj meg egy jelszót!");
     }
-    if (username == "xpnyeste" && password == "jelszo") {
+    if (username == "hartmana" && password == "jelszo") {
         window.location.href = "index.html";
     }else if(username != "" && password != ""){
         alert("Nem megfelelő kombináció!");
